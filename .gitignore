@@ -60,3 +60,5 @@ target/
 \.idea/
 
 fundamentals/world_temp_mean\.txt
+
+fundamentals/elements1_20\.txt
