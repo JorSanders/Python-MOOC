@@ -58,3 +58,5 @@ docs/_build/
 target/
 
 \.idea/
+
+fundamentals/world_temp_mean\.txt
